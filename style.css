@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.picing_section {
+    margin: 70px 0px;
+    font-family: sans-serif;
+}
+.picing_section h1{
+    font-size: 40px;    
+}
+.pera1 p{
+    color: darkgrey;    
+ }
